@@ -13,12 +13,10 @@ header {
     color: #2D0000; /* Pipers Museum */
     font-family: "handsome-pro";
     font-weight: 400;
-    outline: 4px dashed red; /* #FFE900 */
-    outline-offset: 5px;
     font-style: normal;
     text-align: center;
+    text-shadow: 0 0 5px #FFE900, 0 0 10px #FFE900, 0 0 15px #FFE900;
     padding: 20px 0;
-    display: block;
 }
 
 nav ul {
