@@ -11,9 +11,11 @@ body {
 header {
     background-color: #2E8B57; /* Sea Green */
     color: #2D0000; /* Pipers Museum */
-	font-family: "handsome-pro";
-	font-weight: 400;
-	font-style: normal;
+    font-family: "handsome-pro";
+    font-weight: 400;
+    outline: 2px #FFE900;
+    outline-offset: 5px;
+    font-style: normal;
     text-align: center;
     padding: 20px 0;
 }
