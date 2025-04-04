@@ -61,8 +61,8 @@ h2, h3 {
     text-shadow: 0 0 5px #26F0E7, 0 0 10px #26F0E7, 0 0 15px #26F0E7;
     font-weight: bold;
     font-style: oblique;
-    margin-top: 20px; /* Larger gap above the title */
-    margin-bottom: 5px; /* Smaller gap below the title */
+    margin-top: 30px; /* Larger gap above the title */
+    margin-bottom: 0px; /* Smaller gap below the title */
 }
 
 /* Footer */
