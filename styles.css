@@ -57,10 +57,11 @@ main {
 
 h2, h3 {
     color: #2E8B57;
-	font-family: "alasassy-caps";
-	font-weight: 400;
-	font-style: oblique;
-	margin-top: 10px;
+    font-family: "alasassy-caps";
+    text-shadow: 0 0 5px #26F0E7, 0 0 10px #26F0E7, 0 0 15px #26F0E7;
+    font-weight: bold;
+    font-style: oblique;
+    margin-top: 10px;
 }
 
 /* Footer */
